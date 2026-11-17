@@ -1,1 +1,1 @@
-na razie tu nic nie ma
+Plik to jest aktualizacja do sterownika, aktualizować przez UPDATE
